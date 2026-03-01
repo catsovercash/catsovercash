@@ -6,7 +6,6 @@
   <img src="https://img.shields.io/badge/C%2B%2B-0b0b0b?style=flat&logo=c%2B%2B&logoColor=ffffff" alt="C++" />
   <img src="https://custom-icon-badges.demolab.com/badge/C%23-0b0b0b?style=flat&logo=csharp&logoColor=ffffff" alt="C#" />
   <img src="https://img.shields.io/badge/Java-0b0b0b?style=flat&logo=java&logoColor=ffffff" alt="Java" />
-  <img src="https://img.shields.io/badge/Git-0b0b0b?style=flat&logo=git&logoColor=ffffff" alt="Git" />
 </p>
 
 ---
